@@ -3,3 +3,4 @@ node_modules
 starter
 
 config/config.env
+config/config2.env
