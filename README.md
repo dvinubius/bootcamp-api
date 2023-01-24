@@ -2,9 +2,13 @@
 
 Based on Brad Traversy's Udemy Course
 
-The API is deployed at https://dvn-bootcamps.herokuapp.com/api/V1
+The API is live. 🤩 👨🏻‍💻
+Try https://dvn-bootcamps.herokuapp.com/api/V1/bootcamps
 
-Documentation: https://dvn-bootcamps.herokuapp.com
+Documentation 🧐 🤓
+https://dvn-bootcamps.herokuapp.com
+
+![Screenshot 2023-01-25 at 01 46 50](https://user-images.githubusercontent.com/32189942/214446506-c1e8a84a-1457-4669-819a-ed8741107e94.png)
 
 # Improvements
 
