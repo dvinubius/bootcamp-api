@@ -5,8 +5,9 @@ Based on Brad Traversy's Udemy Course
 The API is live. 🤩 👨🏻‍💻
 Try https://dvn-bootcamps.herokuapp.com/api/V1/bootcamps
 
-Documentation 🧐 🤓
+Documentation in pastel colors 🤩 🧐 🤓
 https://dvn-bootcamps.herokuapp.com
+<img width="1123" alt="Screenshot 2023-11-07 at 11 08 34" src="https://github.com/dvinubius/bootcamp-api/assets/32189942/23462157-3fce-4e70-bdc0-eda4251c6524">
 
 ![Screenshot 2023-01-25 at 01 46 50](https://user-images.githubusercontent.com/32189942/214446506-c1e8a84a-1457-4669-819a-ed8741107e94.png)
 
