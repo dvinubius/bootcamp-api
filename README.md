@@ -17,7 +17,7 @@ I have documented a learning journey that starts with this project on [medium](h
 
 # Improvements to this project
 
-These changes are functional improvements to the tutorial version.
+These changes are functional improvements to the tutorial version
 
 ## naming
 
