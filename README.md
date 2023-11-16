@@ -11,7 +11,11 @@ https://dvn-bootcamps.herokuapp.com
 
 ![Screenshot 2023-01-25 at 01 46 50](https://user-images.githubusercontent.com/32189942/214446506-c1e8a84a-1457-4669-819a-ed8741107e94.png)
 
-# Improvements
+I have documented a learning journey that starts with this project on [medium](https://medium.com).
+
+### TODO update medium link 👆
+
+# Improvements to this project
 
 These changes are functional improvements to the tutorial version.
 
@@ -82,26 +86,3 @@ Running `seeder.js -d` not only deletes the documents but also clears the indexe
   - if they're a user they can't become a publisher unless they have no joined bootcamps
 
 - one more virtual for retrieved users: all authored reviews
-
-# 🚧 TODO
-
-## Redefine business entities & use case
-
-Bootcamp = Disinfo Festival
-Course = Event (Workshop / Masterclass / Propaganda Entertainment / Inspirational)
-Review = Review
-
-Roles:
-
-- Admin
-- Journalist
-- Organizer
-
-Persist participation, require participation for writing Reviews (?) or NOT : write whatever, do the disinfo
-
-Admin enrolls participant to Event (participant can be journalist or organizer)
-Owner of event marks participant as graduated (owner must be an organizer)
-
-## REFACTOR organize into features, then routes-controllers-views
-
-## Version with Postgres

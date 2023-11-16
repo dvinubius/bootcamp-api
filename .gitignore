@@ -4,3 +4,5 @@ starter
 
 config/config.env
 config/config2.env
+
+.DS_Store
